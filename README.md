@@ -3,6 +3,7 @@ Welcome to the Blinkit Sales Analytics Dashboard repository! This Power BI dashb
 The dashboard visualizes key performance metrics and trends, allowing stakeholders to make data-driven decisions. The focus is on analyzing sales data across different outlet types, sizes, locations, and item categories.
 
 Key Features:
+
 Total Sales: Displays cumulative sales with breakdown by fat content and item type.
 Outlet Performance: Comparison across supermarket types and grocery stores by sales, number of items, average sales, and customer ratings.
 Sales Over Time: Visual trend analysis of outlet establishment years vs sales.
